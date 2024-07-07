@@ -1,0 +1,35 @@
+#introduction img {
+  border-radius: 50%;
+}
+
+.education {
+  display: flex;
+  align-items: center;
+  background-color: #f7e7dc;
+  /* background-color: #405d72; */
+}
+
+.profile {
+  /* background-color: #f7e7dc; */
+  background-color: #405d72;
+}
+
+.profile p {
+  color: #f7e7dc;
+}
+
+header {
+  font-size: 1.2rem;
+}
+
+#skills {
+  background-color: #f7e7dc;
+}
+
+#header {
+  background-color: #fff8f3;
+}
+
+#footer {
+  background-color: #405d72;
+}
